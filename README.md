@@ -4,6 +4,25 @@ This roadmap will guide you through essential TypeScript concepts, including bas
 
 ---
 
+## Getting Started with TypeScript
+
+1. **Install TypeScript**:
+   ```bash
+   npm install -g typescript
+   ```
+2. **Initialize TypeScript Configuration**:
+   ```bash
+   tsc --init
+   ```
+3. **Compile TypeScript Files**:
+   ```bash
+   tsc filename.ts
+   ```
+4. **Run JavaScript Output**:
+   ```bash
+   node filename.js
+   ```
+
 ## 1. Basic Datatypes
 - **Goal**: Understand TypeScript's data types like `number`, `string`, `boolean`, and more.
 - **Steps**:
